@@ -32,7 +32,7 @@ requirements:
     - harfile >=0.5.0,<1.0
     - hypothesis >=6.130.12,<7
     - hypothesis-graphql >=0.13.1,<1
-    - jsonschema-rs >=0.50.0,<0.51.0
+    - jsonschema-rs >=0.51.0,<0.52.0
     - pyrate-limiter >=4.0,<5.0
     - pytest >=9,<10
     - pyyaml >=5.1,<7.0
@@ -40,7 +40,7 @@ requirements:
     - rich >=13.9.4
     - starlette-testclient >=0.4.1,<1
     - tomli >=2.2.1
-    - typing-extensions >=4.12.2
+    - typing_extensions >=4.12.2
     - werkzeug >=0.16.0,<4
 
 tests:
